@@ -10,6 +10,8 @@ Welcome to the **Mathematical Notes and Anki Decks** repository! This collection
   - [Lie Algebras Notes](#lie-algebras-notes)
   - [Lie Algebras Exercises](#lie-algebras-exercises)
   - [Lie Algebras Anki Deck](#lie-algebras-anki-deck)
+  - [Algebraic Topology Anki Deck](#algebraic-topology-anki-deck)
+  - [Tensor Categories Anki Deck](#tensor-categories-anki-deck)
 - [Accessing the Materials](#accessing-the-materials)
 - [Contributing](#contributing)
 - [License](#license)
