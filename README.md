@@ -37,12 +37,25 @@ This repository consolidates detailed notes and corresponding Anki flashcard dec
 - **Description:** A collection of exercises on Lie Algebras designed to test understanding and application of the concepts discussed in the notes.
 - **Format:** PDF
 - **Download:** [Lie Algebren Übungen.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20%C3%9Cbungen.pdf)
+- **Download:** [Lie Algebren Addendum.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20Addendum.pdf)
 
 ### Lie Algebras Anki Deck
 
 - **Description:** An Anki flashcard deck to reinforce key concepts and definitions related to Lie Algebras.
 - **Format:** Anki Deck File (.apkg)
 - **Download:** [Lie Algebren.apkg](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren.apkg)
+
+### Algebraic Topology Anki Deck
+
+- **Description:** An Anki flashcard deck to reinforce key concepts and definitions related to Algebraic Topology.
+- **Format:** Anki Deck File (.apkg)
+- **Download:** [Algebraic Topology.apkg](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Algebraic%20Topology.apkg)
+
+### Tensor Categories Anki Deck
+
+- **Description:** An Anki flashcard deck to reinforce key concepts and definitions related to Tensor Categories.
+- **Format:** Anki Deck File (.apkg)
+- **Download:** [Tensorkategorien.apkg](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Tensorkategorien.apkg)
 
 ## Accessing the Materials
 
