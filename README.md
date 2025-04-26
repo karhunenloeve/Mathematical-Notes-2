@@ -38,8 +38,7 @@ This repository consolidates detailed notes and corresponding Anki flashcard dec
 
 - **Description:** A collection of exercises on Lie Algebras designed to test understanding and application of the concepts discussed in the notes.
 - **Format:** PDF
-- **Download:** [Lie Algebren Übungen.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20%C3%9Cbungen.pdf)
-- **Download:** [Lie Algebren Addendum.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20Addendum.pdf)
+- **Download:** [Lie Algebren Übungen.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20%C3%9Cbungen.pdf), [Lie Algebren Addendum.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20Addendum.pdf)
 
 ### Lie Algebras Anki Deck
 
