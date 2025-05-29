@@ -77,7 +77,3 @@ Please ensure that your contributions align with the existing structure and main
 ## License
 
 This repository is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. For more information, refer to the [LICENSE](https://github.com/karhunenloeve/Mathematical-Notes-2/blob/main/LICENSE) file.
-
----
-
-*Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com).*
