@@ -1,79 +1,84 @@
-# Mathematical Notes and Anki Decks
+# Mathematical Notes 2
 
-Welcome to the **Mathematical Notes and Anki Decks** repository! This collection offers comprehensive notes and Anki flashcard decks on advanced mathematical topics, designed to aid in-depth understanding and facilitate effective learning.
+A curated collection of advanced mathematical notes, lecture materials, and Anki decks covering algebra, topology, homological algebra, and related fields.
 
-## Table of Contents
+---
 
-- [Overview](#overview)
-- [Available Materials](#available-materials)
-  - [Functional Analysis II Notes](#functional-analysis-ii-notes)
-  - [Lie Algebras Notes](#lie-algebras-notes)
-  - [Lie Algebras Exercises](#lie-algebras-exercises)
-  - [Lie Algebras Anki Deck](#lie-algebras-anki-deck)
-  - [Algebraic Topology Anki Deck](#algebraic-topology-anki-deck)
-  - [Tensor Categories Anki Deck](#tensor-categories-anki-deck)
-- [Accessing the Materials](#accessing-the-materials)
-- [Contributing](#contributing)
-- [License](#license)
+## 📚 Contents
 
-## Overview
+### Lecture Notes & PDFs
 
-This repository consolidates detailed notes and corresponding Anki flashcard decks on select mathematical subjects. The materials are structured to support both self-study and academic review, providing clear explanations, illustrative examples, and exercises to reinforce learning.
+- [Funktionalanalysis II - Notizen.pdf](Funktionalanalysis%20II%20-%20Notizen.pdf)  
+  Functional Analysis II detailed lecture notes.
 
-## Available Materials
+- [Hochschild__Ko_homologie.pdf](Hochschild__Ko_homologie.pdf)  
+  Notes on Hochschild cohomology.
 
-### Functional Analysis II Notes
+- [Lie Algebren.pdf](Lie%20Algebren.pdf)  
+  Core notes on Lie algebras.
 
-- **Description:** In-depth notes covering advanced topics in Functional Analysis, including normed spaces, Banach spaces, Hilbert spaces, and linear operators.
-- **Format:** PDF
-- **Download:** [Funktionalanalysis II - Notizen.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Funktionalanalysis%20II%20-%20Notizen.pdf)
+- [Lie Algebren Addendum.pdf](Lie%20Algebren%20Addendum.pdf)  
+  Additional material supplementing the Lie Algebras notes.
 
-### Lie Algebras Notes
+- [Lie Algebren Übungen.pdf](Lie%20Algebren%20%C3%9Cbungen.pdf)  
+  Exercise sheets on Lie algebras.
 
-- **Description:** Comprehensive notes on Lie Algebras, exploring their structure, representations, and applications in various mathematical contexts.
-- **Format:** PDF
-- **Download:** [Lie Algebren.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren.pdf)
+- [chainhomotopies.pdf](chainhomotopies.pdf)  
+  Notes on chain homotopies.
 
-### Lie Algebras Exercises
+- [simplicialobjects.pdf](simplicialobjects.pdf)  
+  Lecture notes on simplicial objects.
 
-- **Description:** A collection of exercises on Lie Algebras designed to test understanding and application of the concepts discussed in the notes.
-- **Format:** PDF
-- **Download:** [Lie Algebren Übungen.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20%C3%9Cbungen.pdf), [Lie Algebren Addendum.pdf](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren%20Addendum.pdf)
+### Anki Decks (.apkg)
 
-### Lie Algebras Anki Deck
+- [Algebraische Topologie.apkg](Algebraische%20Topologie.apkg)  
+  Algebraic Topology flashcards.
 
-- **Description:** An Anki flashcard deck to reinforce key concepts and definitions related to Lie Algebras.
-- **Format:** Anki Deck File (.apkg)
-- **Download:** [Lie Algebren.apkg](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Lie%20Algebren.apkg)
+- [Commutative Algebra.apkg](Commutative%20Algebra.apkg)  
+  Commutative algebra study cards.
 
-### Algebraic Topology Anki Deck
+- [Homologie von Gruppoiden.apkg](Homologie%20von%20Gruppoiden.apkg)  
+  Homology of groupoids deck.
 
-- **Description:** An Anki flashcard deck to reinforce key concepts and definitions related to Algebraic Topology.
-- **Format:** Anki Deck File (.apkg)
-- **Download:** [Algebraic Topology.apkg](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Algebraic%20Topology.apkg)
+- [Homologische Algebra.apkg](Homologische%20Algebra.apkg)  
+  Homological algebra cards.
 
-### Tensor Categories Anki Deck
+- [Homologische Persistenz.apkg](Homologische%20Persistenz.apkg)  
+  Persistent homology flashcards.
 
-- **Description:** An Anki flashcard deck to reinforce key concepts and definitions related to Tensor Categories.
-- **Format:** Anki Deck File (.apkg)
-- **Download:** [Tensorkategorien.apkg](https://github.com/karhunenloeve/Mathematical-Notes-2/raw/main/Tensorkategorien.apkg)
+- [Lie Algebren.apkg](Lie%20Algebren.apkg)  
+  Lie algebra flashcards.
 
-## Accessing the Materials
+- [Probability Theory.apkg](Probability%20Theory.apkg)  
+  Probability theory deck.
 
-All materials are available for direct download through the links provided above. Additionally, you can explore the content via the GitHub Pages site associated with this repository: [https://karhunenloeve.github.io/Mathematical-Notes-2](https://karhunenloeve.github.io/Mathematical-Notes-2)
+- [Tensorkategorien.apkg](Tensorkategorien.apkg)  
+  Tensor categories cards.
 
-## Contributing
+---
 
-Contributions to enhance and expand this collection are welcome. If you have suggestions, corrections, or additional materials to share, please follow these steps:
+## ⚙️ Setup
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/YourFeature`.
-5. Submit a pull request.
+This repository mainly contains notes and Anki decks — no compilation needed.
 
-Please ensure that your contributions align with the existing structure and maintain the quality of the materials.
+To use the Anki decks:
 
-## License
+1. Install [Anki](https://apps.ankiweb.net/).
+2. Import `.apkg` files via **File > Import**.
+3. Start reviewing!
 
-This repository is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. For more information, refer to the [LICENSE](https://github.com/karhunenloeve/Mathematical-Notes-2/blob/main/LICENSE) file.
+---
+
+## 📜 License
+
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🐾 About
+
+This repository was created to collect comprehensive mathematical study materials and spaced repetition decks for efficient learning.
+
+---
+
+*Happy studying!* 📖✨
